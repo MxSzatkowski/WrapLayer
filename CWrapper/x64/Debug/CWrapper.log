@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Wrapper.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  AssemblyInfo.cpp
+  Entity.cpp
+  Wrapper.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Core.lib(Source.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  CWrapper.vcxproj -> C:\Users\micha\Documents\GitHub\WrapperC\x64\Debug\CWrapper.dll
